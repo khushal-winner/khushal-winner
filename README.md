@@ -8,4 +8,4 @@ I architect and ship **event-driven, real-time platforms** that scale. My stack 
 
 **I'm looking for:** Founding engineer / backend infrastructure roles at YC startups where I can own complex distributed systems from day one.
 
-**Reach me:** [contact via email](khushalmalhotra775@gmail.com) | [[LinkedIn](https://www.linkedin.com/in/khushalmalhotra/)] | [khushallll.me](khushallll.me)
+**Reach me:** [contact via email](khushalmalhotra775@gmail.com)   [LinkedIn](https://www.linkedin.com/in/khushalmalhotra/)]   [khushallll.me](khushallll.me)
